@@ -1,0 +1,12 @@
+header = 2
+items = 3
+detail 1 = 4
+detail 2 = 5
+detail [fixed ads] = 6
+detail [Native] = 1
+detail [side ads] = 7
+category/actress = 8
+category/actress [fixed ads] = 9
+pussy drive [top ads] = 10
+pussy drive [bottom ads] = 11
+pussy drive [native ads] = 12
